@@ -1,12 +1,10 @@
 .header{
+  display: inline;
   background-color: #ffffff;
+  color: #7b1bc3;
+  font-family: 'Sunflower', sans-serif;
 }
 
-.header-image {
-  display: block;
-  margin: 0 auto;
-  width: 50%;
-}
 
 .game-title{
   text-align: center;
@@ -17,9 +15,10 @@
 .instructions{
   margin-left: 10%;
   max-width: 80%;
+  text-align: center;
 }
 .canvas{
   display: block;
   margin: 0 auto;
-  width: 90%;
+  width: 60%;
 }
